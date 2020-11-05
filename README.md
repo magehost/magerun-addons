@@ -1,8 +1,6 @@
 magerun addons
 ==============
 
-Some additional commands for the excellent m98-magerun Magento 2 command-line tool.
-
 Installation
 ------------
 There are a few options.  You can check out the different options in the [magerun
